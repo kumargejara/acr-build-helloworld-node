@@ -41,3 +41,5 @@ Although intended for use with the companion articles, you can perform the follo
 [build-task]: https://docs.microsoft.com/azure/container-registry/container-registry-tutorial-build-task
 [build-base]: https://docs.microsoft.com/azure/container-registry/container-registry-tutorial-base-image-update
 [docs]: http://docs.microsoft.com
+
+testing this project
